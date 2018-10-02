@@ -10,7 +10,7 @@ package pbo6.pkg10116228.latihan18.kelipatan;
  * @@author 
  * NAMA : Gandy Christian Situmorang
  * KELAS: PBO-6
- * NIM  : 10116338
+ * NIM  : 10116228
  * Deskripsi Program : Program ini berisi program perulangan yang menampilkan 
  * kelipatan angka 3.5 secara ascending
  */
